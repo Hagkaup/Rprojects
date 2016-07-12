@@ -1,6 +1,6 @@
 {
   "name": "Rprojects - Survival Analyses for time-to-event data",
   "tagline": "Parametric and semi-parametric survival regression",
-  "body": "## The files needed to carry out all analyses of the example data can be downloaded from this web site.\r\n\r\nFiles:\r\nIna.csv is the file read into the R console\r\nIna.R is the script containing all the codes to carry out the analysis + notes describing the code\r\nIna.xlsx is the original Excel sheet from which the csv file was created\r\nSurvival analysis.pptx is the Power Point presentation presented at the lab meeting",
+  "body": "## The files needed to carry out all analyses of the example data can be downloaded from this web site.\r\n\r\nFiles:\r\n\r\n\r\nIna.csv is the file read into the R console\r\n\r\n\r\nIna.R is the script containing all the codes to carry out the analysis + notes describing the code\r\n\r\n\r\nIna.xlsx is the original Excel sheet from which the csv file was created\r\n\r\n\r\nSurvival analysis.pptx is the Power Point presentation presented at the lab meeting",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
